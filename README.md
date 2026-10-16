@@ -1,4 +1,9 @@
 # Lab 5: Static Code Analysis — Smart Home Device Controller
+## My Repository
+
+**My GitHub Repository:** https://github.com/nnivedithaparmesh-cpu/L5_36_smart_home
+
+**Main Lab Submission:** https://github.com/nnivedithaparmesh-cpu/SE-lab-PES1UG24CS585/tree/main/Lab5
 
 **Your file:** `smart_home.py`
 
